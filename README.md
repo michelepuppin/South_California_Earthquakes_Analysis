@@ -28,9 +28,9 @@ The catalog includes the magnitude, time of occurrence (s), and 3D coordinates (
 
 4. Compute the distribution P_m(r) of the distance between an event and the next one, considering earthquakes of magnitude m or above. Also here make a clever choice for the bin sizes and try several values of m.
 
-5. Compute the distribution P_{m,R}(t) of waiting times for events of magnitude m or above, which are separated by at most a distance r<R, for different values of m and $R$. (In this statistics, if the following event is farther than R, skip the t and go to the next pair)
+5. Compute the distribution P_{m,R}(t) of waiting times for events of magnitude m or above, which are separated by at most a distance r<R, for different values of m and R. (In this statistics, if the following event is farther than R, skip the t and go to the next pair)
 
-6. Eventually note if, from the analysis of the previous points, there emerges a scaling picture. Is there a suitable rescaling that collapses distributions for various $m$ (and eventually $R$ if point 5 is considered) on a single curve?
+6. Eventually note if, from the analysis of the previous points, there emerges a scaling picture. Is there a suitable rescaling that collapses distributions for various m (and eventually R if point 5 is considered) on a single curve?
 
 ### Datasets
 
